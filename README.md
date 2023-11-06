@@ -1,11 +1,9 @@
-# Portfolio
+# Portfolio 📜
 
-## About me
-
+## About me 🔎
 I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly develop my skills. My precision and attention to details, strong analytical thinking and creative lets me to excel in a challenging and innovative QA work environment. I have just completed the Manual QA Engineer course and plan to pass the ISTQB exam in the near future. I am looking for a job in a Company that will give me the opportunity to learn, gain knowledge and develop myself as a software tester.
 
-## Tech skills
-
+## Tech skills 🛠️
 * Test cases and scenarios
 * Bug reports
 * Preparing test raports
@@ -24,28 +22,24 @@ I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly
 * Chrome Dev Tools
 * Scrum, Agile
 
-## Soft skills
-
+## Soft skills 🙌
 * Precision and attention to details
 * Organizational skills
 * Strong analytical thinking
-* Creative
+* Creativity
 * Communicative/social skills
 * Willingness to learn
 * Positive attitude
 * Flexible
 
-## Courses 
+## Courses 👨‍🎓
+* GoIT Manual QA Engineer Course (2023)
 
-* GoIT Manual QA Engineer (2023)
-
-## Certificates
-
+## Certificates 🏆
 * Internal auditor PN-EN ISO 9001:2009 (2016)
 * ISTQB Certificate (in progress)
 
-## Knowledge, blogs, groups
-
+## Knowledge, blogs, groups 📚
 * [SJSI](https://sjsi.org)
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
 * [Waldemar Szafraniec - Testy i szkolenia](https://www.wyszkolewas.com.pl/blog/)
@@ -57,13 +51,15 @@ I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly
 * [Praca - Testowanie/QA](https://www.facebook.com/groups/praca.testing/)
 * [Tester oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
   
-## My Test Documentation
-
+## My Test Documentation (examples) 🗃️
 * [Bug Reports]
-* [Test Reports]
-* [Test Cases]
+* [Checklists]
+* [Test Cases] - Excel, Jira/Qase
+* [Diagrams] - code2flow with psedocode
+* [REST API] - POSTMAN
+* [SQL] - DBeaver
+* [GIT] - GitHub
 
-## My Projects
-
-* Group project - team leader - testing [SO YUMMY](https://so-yummi-qa.netlify.app/) application - final project related with GoIT QA Manual Engineer course
-   * <a href="https://github.com/MichalPwlk/SO YUMMY" target="_blank">Project repository</a>
+## My Projects 🚀
+* Group project - (2nd) team leader - testing [SO YUMMY](https://so-yummi-qa.netlify.app/) application - final project related with GoIT QA Manual Engineer course
+   * <a href="https://github.com/MichalPwlk/SO-YUMMY" target="_blank">Project repository</a>
