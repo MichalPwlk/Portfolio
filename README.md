@@ -39,18 +39,6 @@ I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly
 * Internal auditor PN-EN ISO 9001:2009 (2016)
 * ISTQB Certificate (in progress)
 
-## Knowledge, blogs, groups 📚
-* [SJSI](https://sjsi.org)
-* [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
-* [Waldemar Szafraniec - Testy i szkolenia](https://www.wyszkolewas.com.pl/blog/)
-* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl) 
-* [testerzy.pl](http://testerzy.pl)
-* [testerka.pl](http://testerka.pl)
-* [toniebug.pl](https://www.toniebug.pl)
-* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca/)
-* [Praca - Testowanie/QA](https://www.facebook.com/groups/praca.testing/)
-* [Tester oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
-  
 ## My Test Documentation (examples) 🗃️
 * Bug Reports:
   * [Media Markt (web site)](https://drive.google.com/file/d/1dDSxo7LSdZWkeq5CiFKHFGWD2QDfVRsT/view?usp=sharing)
@@ -81,3 +69,15 @@ I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly
 ## My Projects 🚀
 * Group project - (2nd) team leader - testing [SO YUMMY](https://so-yummi-qa.netlify.app/) application - final project related with GoIT QA Manual Engineer course
    * <a href="https://github.com/MichalPwlk/SO-YUMMY" target="_blank">Project repository</a>
+   
+## Gathering of knowledge - websites, blogs, groups 📚
+* [Stowarzyszenie Jakości Systemów Informatycznych](https://sjsi.org)
+* [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
+* [Waldemar Szafraniec - Testy i szkolenia](https://www.wyszkolewas.com.pl/blog/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl) 
+* [testerzy.pl](http://testerzy.pl)
+* [testerka.pl](http://testerka.pl)
+* [toniebug.pl](https://www.toniebug.pl)
+* [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca/)
+* [Praca - Testowanie/QA](https://www.facebook.com/groups/praca.testing/)
+* [Tester oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
