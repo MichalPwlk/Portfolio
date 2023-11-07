@@ -59,13 +59,12 @@ I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly
   * [ToDo mobile app (GoIT’s testing app)](https://drive.google.com/file/d/1Oe6J9tHgSHJTf3m_okqM2q1TKXts2fMu/view?usp=sharing)
 * Test Cases
   * Excel, Jira/Qase
-* [REST API] - POSTMAN
-* [SQL] - DBeaver
-* [GIT] - GitHub
-* Checklists
-  * [Media Markt](https://docs.google.com/spreadsheets/d/163lGQzEM0GwQkAaCETZ3lrpCcUSxyeYb/edit?usp=sharing&ouid=108269447861433713192&rtpof=true&sd=true)
-* [Reviews - Ad hoc & role-based at GoIT's LMS](https://drive.google.com/file/d/1RjN4vgX-ePl2JOHZJ_WSC1KGyM2g21lG/view?usp=sharing) - made for tab in the system called "Zadanie domowe" 
-* [Flowcharts from pseudocode](https://drive.google.com/file/d/1jeQ-UdppgnSBg2JpLzThHZHfkFbh7C7m/view?usp=sharing) - presented in [code2flow](https://app.code2flow.com/)
+* [REST API](https://drive.google.com/file/d/1J71QZrlfoGy7zNQihY1sdh4j_pnmQH_C/view?usp=sharing) - POSTMAN connected with Trello
+* [SQL](https://drive.google.com/file/d/1ZPeqkVovEdUlVsmmCrZO3PadIswe89jv/view?usp=sharing) - presented in [DBeaver](https://dbeaver.io/)
+* [GIT](https://drive.google.com/file/d/1HDeyrbd1GFuGKJuS6w_oPx3XTK3l1-Z_/view?usp=sharing) - GitHub console
+* Checklist: [for Media Markt web site](https://drive.google.com/file/d/1H6wqPxacqmZ-ToYkrBlj0FHNyv0N68jq/view?usp=sharing)
+* Reviews: [Ad hoc & role-based for GoIT's LMS](https://drive.google.com/file/d/1PLqWeq7FCeOA5ZWBo73zwrCvWLxSSv9t/view?usp=sharing) - made for tab in the system called "Zadanie domowe" 
+* Flowcharts: [from pseudocode](https://drive.google.com/file/d/1O0wIr5jZtHMz-ewiAf_YfnsBSukNGSbz/view?usp=sharing) - presented in [code2flow](https://app.code2flow.com/)
 
 ## My Projects 🚀
 * Group project - (2nd) team leader - testing [SO YUMMY](https://so-yummi-qa.netlify.app/) application - final project related with GoIT QA Manual Engineer course
