@@ -1,43 +1,44 @@
 # Portfolio 📜
 
 ## About me 🔎
-I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly develop my skills. My precision and attention to details, strong analytical thinking and creative lets me to excel in a challenging and innovative QA work environment. I have just completed the Manual QA Engineer course and plan to pass the ISTQB exam in the near future. I am looking for a job in a Company that will give me the opportunity to learn, gain knowledge and develop myself as a software tester.
+I have many years of experience in analyzing technical documentation and quality control, which is extremely important to me. Organizing the work, both my own and that of the working group I supervised, allowed me to complete the tasks on time. Ambitious and motivated to constantly develop, I quickly acquire knowledge. I'm definitely a STEM mind. I always try to think outside the box, which, in cooperation with my technical sense, allows me to solve any problematic issues. Precision and attention to detail have always led me to success in a demanding environment. If I don't know something, I will find out. Currently, my development directions are testing automation and cybersecurity, but I am open to any challenges. I have completed the Manual QA Engineer course and plan to pass the ISTQB exam in the near future.
 
-## Tech skills 🛠️
-* Test cases and scenarios
-* Bug reports
-* Preparing test raports
-* Black and White-Box Testing
-* SQL
-* JSON
-* HTML + CSS
-* XML
-* C++, Visual Basic (basic)
-* Postman, Swagger
-* Testrail
-* Jira, Qase
-* Trello
-* DBeaver
-* Git
+## Tools & skills 🛠️
+* SQL/MySQL (intermediate)
+* HTML+CSS, XML (basic)
+* Postman, Swagger (basic)
+* Jira, TestRail, TestLink, Trello,Qase (basic)
+* MS Office (basic/ Excel -intermediate)
 * Chrome Dev Tools
-* Scrum, Agile
+* Writing test cases and scenarios
+* Writing bug reports
+* Black and White-Box Testing
+* Functional/ non-functionaltesting
+* Exploratory testing
+* Writing test reports
+* Basic knowledge ofAgile/Scrum methodology
 
 ## Soft skills 🙌
 * Precision and attention to details
 * Organizational skills
 * Strong analytical thinking
 * Creativity
-* Communicative/social skills
+* Communication/social skills
+* Team player
 * Willingness to learn
 * Positive attitude
-* Flexible
+* Flexibility
 
 ## Courses 👨‍🎓
-* GoIT Manual QA Engineer Course (2023)
+* Manual QA Engineer (2023) - [GoIT](https://goit.global/pl/) course
+* SQL Basics 1, 2 (2023) - [Polish Entrepreneurship Foundation](https://szkolenia.pfp.com.pl/)
 
 ## Certificates 🏆
+* ISTQB FL (in progress)
+* GoIT course - QA Manual Tester (2023)
 * Internal auditor PN-EN ISO 9001:2009 (2016)
-* ISTQB Certificate (in progress)
+* Internal auditor of Safety Management Systems(SMS) in railway transport (2016)
+* Internal auditor of Maintenance Management Systems (MMS) in railway transport (2016)
 
 ## My Test Documentation (examples) 🗃️
 * Bug Reports:
@@ -67,7 +68,7 @@ I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly
   * [from pseudocode presented in code2flow](https://drive.google.com/file/d/1O0wIr5jZtHMz-ewiAf_YfnsBSukNGSbz/view?usp=sharing)
 
 ## My Projects 🚀
-* Group project - (2nd) team leader - testing [SO YUMMY](https://so-yummi-qa.netlify.app/) application - final project related with GoIT QA Manual Engineer course
+* Group project - team leader - testing [SO YUMMY](https://so-yummi-qa.netlify.app/) application - final project related with GoIT QA Manual Engineer course
    * <a href="https://github.com/MichalPwlk/SO-YUMMY" target="_blank">Project repository</a>
    
 ## Gathering of knowledge - websites, blogs, groups 📚
@@ -78,6 +79,7 @@ I am a Junior QA Engineer. Ambitious, well organized and motivated to constantly
 * [testerzy.pl](http://testerzy.pl)
 * [testerka.pl](http://testerka.pl)
 * [toniebug.pl](https://www.toniebug.pl)
+* [testuj.pl](https://www.testuj.pl)
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca/)
 * [Praca - Testowanie/QA](https://www.facebook.com/groups/praca.testing/)
 * [Tester oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
