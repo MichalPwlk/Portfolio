@@ -47,7 +47,7 @@ I have many years of experience in analyzing technical documentation and quality
 * Flexibility
 * Professionalism
 
-## Languages 🙌
+## Languages 🗣
 * English (B1+/B2)
 * Polish (native)
 * Danish (beginner - during education)
