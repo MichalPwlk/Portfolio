@@ -19,9 +19,8 @@ I have many years of experience in analyzing technical documentation and quality
 * Basic knowledge of Agile/Scrum methodology
 
 ## My Projects 🚀
-* [HumaCare](https://www.humacare.ch/) (03.2024 - current) - Test and Requirements Engineer in CoverHealth's (Switzerland) startup - a web/mobile communication platform providing support to people with health issues 
-* [SO YUMMY](https://so-yummi-qa.netlify.app/) (10.2023) - Tester/Team Leader - testing  application - final, group project related with GoIT QA Manual Engineer course
-   * <a href="https://github.com/MichalPwlk/SO-YUMMY" target="_blank">Project repository</a>
+* [HumaCare](https://www.humacare.ch/) (03.2024 - current) - Test and Requirements Engineer in CoverHealth's (Switzerland) startup - a web/mobile communication platform providing support to people with health issues - <a href="https://github.com/MichalPwlk/HumaCare" target="_blank">Project repository</a>
+* [SO YUMMY](https://so-yummi-qa.netlify.app/) (10.2023) - Tester/Team Leader - testing  application - final, group project related with GoIT QA Manual Engineer course - <a href="https://github.com/MichalPwlk/SO-YUMMY" target="_blank">Project repository</a>
    
 ## Courses 👨‍🎓
 * Ofensywne Testowanie Web Aplikacji (summer 2024 - in progress) - [Bezpieczny Kod](https://www.ofensywnetestowanie.pl/) - Web Applications Ofensive Testing course
