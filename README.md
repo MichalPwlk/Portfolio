@@ -23,7 +23,7 @@ I have many years of experience in analyzing technical documentation and quality
 * [SO YUMMY](https://so-yummi-qa.netlify.app/) (10.2023) - Tester/Team Leader - testing  application - final, group project related with GoIT QA Manual Engineer course - <a href="https://github.com/MichalPwlk/SO-YUMMY" target="_blank">Project repository</a>
    
 ## Courses 👨‍🎓
-* Ofensywne Testowanie Web Aplikacji (summer 2024 - in progress) - [Bezpieczny Kod](https://www.ofensywnetestowanie.pl/) - Web Applications Ofensive Testing course
+* Ofensywne Testowanie Web Aplikacji (summer 2024 - in progress) - [Bezpieczny Kod](https://www.ofensywnetestowanie.pl/) - Offensive Web Application Testing course
 * SQL Basics 1 - 4 (2023/2024) - [Polish Entrepreneurship Foundation](https://szkolenia.pfp.com.pl/) courses
 * Manual QA Engineer (2023) - [GoIT](https://goit.global/pl/) course
 
