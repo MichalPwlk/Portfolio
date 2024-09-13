@@ -1,7 +1,7 @@
 # Portfolio 📜
 
 ## About me 🔎
-I have many years of experience in analyzing technical documentation and quality control, which is extremely important to me. Organizing the work, both my own and that of the working group I supervised, allowed me to complete the tasks on time. Ambitious and motivated to constantly develop, I quickly acquire knowledge. I'm definitely a STEM mind. I always try to think outside the box, which, in cooperation with my technical sense, allows me to solve any problematic issues. Precision and attention to detail have always led me to success in a demanding environment. If I don't know something, I will find out. Currently, my development directions are testing automation and cybersecurity, but I am open to any challenges. I have completed the Manual QA Engineer course and passed the ISTQB exam. Currently I'm during internship as IT Specialist and taking practice as Test and Requirements Engineer in CoverHealth's startup.
+I have many years of experience in analyzing technical documentation and quality control, which is extremely important to me. Organizing the work, both my own and that of the working group I supervised, allowed me to complete the tasks on time. Ambitious and motivated to constantly develop, I quickly acquire knowledge. I'm definitely a STEM mind. I always try to think outside the box, which, in cooperation with my technical sense, allows me to solve any problematic issues. Precision and attention to detail have always led me to success in a demanding environment. If I don't know something, I will find out. My development directions are test automation and cybersecurity, but I am open to any challenges. I have completed the Manual QA Engineer course and passed the ISTQB FL exam. Currently I'm just finished 3-month internship as IT Specialist and taking practice as Test and Requirements Engineer in CoverHealth's startup.
 
 ## Tools & skills 🛠️
 * SQL/MySQL (intermediate)
@@ -17,8 +17,9 @@ I have many years of experience in analyzing technical documentation and quality
 * Exploratory testing
 * Writing test reports
 * Basic knowledge of Agile/Scrum methodology
+* Basics of: configuration, maintenance and modernization of computer equipment and local/Internet networks; making backup copies; technical support for staff; updating information website and intranet site; technical support at cash registers and the telecube platform.
 
-## My Projects 🚀
+## Projects 🚀
 * [HumaCare](https://www.humacare.ch/) (03.2024 - current) - Test and Requirements Engineer in CoverHealth's (Switzerland) startup - a web/mobile communication platform providing support to people with health issues - <a href="https://github.com/MichalPwlk/HumaCare" target="_blank">Project repository</a>
 * [SO YUMMY](https://so-yummi-qa.netlify.app/) (10.2023) - Tester/Team Leader - testing  application - final, group project related with GoIT QA Manual Engineer course - <a href="https://github.com/MichalPwlk/SO-YUMMY" target="_blank">Project repository</a>
    
@@ -79,8 +80,13 @@ I have many years of experience in analyzing technical documentation and quality
   * [from pseudocode presented in code2flow](https://drive.google.com/file/d/1O0wIr5jZtHMz-ewiAf_YfnsBSukNGSbz/view?usp=sharing)
    
 ## Gathering of knowledge - websites, blogs, groups 📚
+* [niebezpiecznik.pl + news on LI](https://niebezpiecznik.pl)
+* [kapitanhack.pl](https://kapitanhack.pl/)
+* [sekurak.pl + newsletter](https://sekurak.pl)
+* [jaktestowac.pl + newsletter](https://jaktestowac.pl/)
+* [fabrykatestow.pl + newsletter](https://fabrykatestow.pl)
 * [Stowarzyszenie Jakości Systemów Informatycznych](https://sjsi.org)
-* [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
+* [Testowanie Oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io)
 * [Waldemar Szafraniec - Testy i szkolenia](https://www.wyszkolewas.com.pl/blog/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl) 
 * [testerzy.pl](http://testerzy.pl)
